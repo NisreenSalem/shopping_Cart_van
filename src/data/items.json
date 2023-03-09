@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "accent chair",
+    "price": 25999,
+    "imgUrl": "https://images2.imgbox.com/38/85/iuYyO9RP_o.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "albany sectional",
+    "price": 109999,
+    "imgUrl": "https://images2.imgbox.com/36/c5/mgSP2SV2_o.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "modern bookshelf",
+    "price": 39999,
+    "imgUrl": "https://images2.imgbox.com/c7/9c/2GpPoQKF_o.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "wooden desk",
+    "price": 842999,
+    "imgUrl": "https://images2.imgbox.com/25/f2/Ce0d8fue_o.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Soft Set",
+    "price": 129999,
+    "imgUrl": "https://images2.imgbox.com/38/09/ui4jmenR_o.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "suede armchair",
+    "price": 15999,
+    "imgUrl": "https://images2.imgbox.com/a2/e2/eiCS6eiw_o.jpeg"
+  }
+]
